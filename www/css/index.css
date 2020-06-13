@@ -1,0 +1,22 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+}
+
+#map {
+    position:center;
+    border: 2px solid #ffffff;
+    width: 90vw;
+    height: 95vh;
+}
+.center-div
+{
+  margin: 0 auto;
+  max-width: 700px;
+  height: 100px;
+  background-color: #ffffff;
+  border-radius: 3px;
+}
+
